@@ -49,7 +49,7 @@ Wordy Unscrambler allows you to select the dictionary to use from the drop-down.
 
 	**Hints:** "AMERICAN" is a good 8 character word and "MEANINGFUL" is a good 10 character word, both of which return quite a few words even with just the "short" dictionary selected.
 
-6. When you're ready, or if you get stuck in your own implementation, check out the `option-1`, `option-2`, and `option-3` branches and compare your solution to the ones provided:
+6. When you're ready, or if you get stuck in your own implementation, check out the `option-1`, `option-2`, `option-3` and `option-4` branches and compare your solution to the ones provided:
 
 	* `option-1` uses the most naive approaches: it stores the dictionary in an array, and does a recursive permutation of the input letters to compare to each entry.
 
